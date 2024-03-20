@@ -24,9 +24,8 @@ Trabalhando em estreita colaboração com a equipe de design, utilizamos o Figma
 Este projeto representou uma oportunidade emocionante para colaborar em uma equipe multidisciplinar e explorar todo o potencial do PHP e do WordPress com ACF na criação de um site dinâmico e informativo para o Super Bock Group, contribuindo assim para a promoção de suas marcas e produtos de forma eficaz.
 
 Site: https://superbockgroup.com/
-
+<img width="100%" alt="Captura de Tela 2024-03-20 às 12 11 55" src="https://github.com/raqueldebiase/superbockgroup/assets/94414829/21c6ac54-03cd-4183-95ff-8f269dde69ff">
 <img width="100%" alt="Captura de Tela 2024-03-20 às 12 08 40" src="https://github.com/raqueldebiase/superbockgroup/assets/94414829/e6a6eeb4-7543-4413-850e-3854e19044c3">
-<img width="100%" alt="Captura de Tela 2024-03-20 às 12 03 09" src="https://github.com/raqueldebiase/superbockgroup/assets/94414829/5bdb2e32-3355-4e1e-a80d-9eba3b120fc7">
 <img width="100%" alt="Captura de Tela 2024-03-20 às 12 08 53" src="https://github.com/raqueldebiase/superbockgroup/assets/94414829/90d16301-cb0d-46fa-bdb7-6c47c2f63d72">
 <img width="100%" alt="Captura de Tela 2024-03-20 às 12 09 31" src="https://github.com/raqueldebiase/superbockgroup/assets/94414829/65fe23f6-9576-48a1-be24-31fefc998015">
 <img width="100%" alt="Captura de Tela 2024-03-20 às 12 09 57" src="https://github.com/raqueldebiase/superbockgroup/assets/94414829/6df1b4b5-fe61-4d14-882b-2b96b9cbd8dd">
